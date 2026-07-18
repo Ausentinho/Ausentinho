@@ -63,8 +63,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Ausentinho&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&ring_color=ffffff&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ausentinho&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9e9e9e&langs_count=8&card_width=300" alt="Top Langs"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Ausentinho&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&ring_color=ffffff&rank_icon=github" alt="GitHub Stats"/>
 
 </div>
 

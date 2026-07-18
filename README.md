@@ -63,8 +63,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ausentinho&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&ring_color=ffffff&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ausentinho&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9e9e9e&langs_count=8&card_width=300" alt="Top Langs"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Ausentinho&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&ring_color=ffffff&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ausentinho&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=9e9e9e&langs_count=8&card_width=300" alt="Top Langs"/>
 
 </div>
 
@@ -84,6 +84,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=400&size=24&duration=5000&pause=2000&color=9E9E9E&center=true&vCenter=true&width=440&height=40&lines=Made+with+%F0%9F%96%A4+by+Lucas;The+World+Is+Yours." alt="The World Is Yours." />
+<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&weight=400&size=24&duration=5000&pause=2000&color=9E9E9E&center=true&vCenter=true&width=440&height=40&lines=Made+with+%F0%9F%96%A4+by+Cha0tic;The+World+Is+Yours." alt="The World Is Yours." />
 
 </div>

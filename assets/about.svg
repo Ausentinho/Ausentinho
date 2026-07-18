@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300">
+  <rect width="640" height="300" fill="#000000"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="25">
+    <g opacity="0">
+      <text x="36" y="75" fill="#ffffff">&#9670;  class</text>
+      <text x="255" y="75" fill="#666666">&#8594;</text>
+      <text x="310" y="75" fill="#c9c9c9">Full-Stack / Systems</text>
+      <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.2s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="36" y="135" fill="#ffffff">&#9670;  origin</text>
+      <text x="255" y="135" fill="#666666">&#8594;</text>
+      <text x="310" y="135" fill="#c9c9c9">Brazil &#127463;&#127479;</text>
+      <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.7s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="36" y="195" fill="#ffffff">&#9670;  stack</text>
+      <text x="255" y="195" fill="#666666">&#8594;</text>
+      <text x="310" y="195" fill="#c9c9c9">C++ &#183; C# &#183; Py &#183; JS</text>
+      <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.2s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <text x="36" y="255" fill="#ffffff">&#9670;  mindset</text>
+      <text x="255" y="255" fill="#666666">&#8594;</text>
+      <text x="310" y="255" fill="#c9c9c9">the world is yours</text>
+      <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="1.7s" fill="freeze"/>
+    </g>
+  </g>
+</svg>
